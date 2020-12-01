@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopUp.xaml.g.cs
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopupX2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopupX2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopupX2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\bin\Debug\netstandard2.0\PopupX2.deps.json
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\bin\Debug\netstandard2.0\PopupX2.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\bin\Debug\netstandard2.0\ref\PopupX2.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\bin\Debug\netstandard2.0\PopupX2.pdb
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopupX2.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\ref\PopupX2.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2\PopupX2\obj\Debug\netstandard2.0\PopupX2.pdb

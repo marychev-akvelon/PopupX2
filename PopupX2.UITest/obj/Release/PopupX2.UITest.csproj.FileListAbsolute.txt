@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\nunit.engine.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\nunit.engine.api.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\test-cloud.exe
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\PopupX2.UITest.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\nunit.framework.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\nunit.framework.pdb
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\bin\Release\Xamarin.UITest.dll
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\obj\Release\PopupX2.UITest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\obj\Release\PopupX2.UITest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\obj\Release\PopupX2.UITest.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PopupX2\PopupX2.UITest\obj\Release\PopupX2.UITest.dll
